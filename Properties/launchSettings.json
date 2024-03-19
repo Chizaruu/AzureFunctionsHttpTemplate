@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Functions_Http_Template": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7049",
+      "launchBrowser": false
+    }
+  }
+}
